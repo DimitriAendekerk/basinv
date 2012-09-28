@@ -1,6 +1,7 @@
 package model;
 
-public interface FixTypes {
+public interface FixTypes
+{
 	public String HEAD_COMPANY = "H";
 	public String INVOICE_ADRESS_TYPE = "I";
 	public String DELIVERY_ADRESS_TYPE = "D";
@@ -10,5 +11,4 @@ public interface FixTypes {
 	public String DEFAULT_INVOICE_STATUS = "O";
 	public String DEFAULT_INVOICE_TYPE = "I";
 	public String CREDIT_NOTE = "C";
-
 }
